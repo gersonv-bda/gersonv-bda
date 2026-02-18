@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hola, Bienvenido a mi portafolio. Soy Gerson Arturo Vázquez Pérez 👋 
 
-<!--
-**gersonv-bda/gersonv-bda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero Biotecnologo & Analista de Datos | Consultoría Freelance y Soluciones Estratégicas
 
-Here are some ideas to get you started:
+Soy un Ingeniero Biotecnólogo con más de 15 años de experiencia gestionando sistemas complejos y operaciones críticas. Mi enfoque combina el rigor científico y el pensamiento sistémico con herramientas modernas de análisis de datos para transformar la incertidumbre en decisiones estratégicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Mi Stack Tecnológico
+
+- **Lenguajes & Bases de Datos:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Análisis & Visualización:** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- **Metodologías:** Análisis Exploratorio (EDA), Estadística Inferencial, Automatización (VBA), OSINT y Gestión de Infraestructura Crítica.
+
+---
+
+## 🔍 Estado Actual
+
+- 🔭 **Proyectos:** Optimizando flujos de datos y creando visualizaciones interactivas.
+- 🌱 **Aprendiendo:** Deep Learning y técnicas avanzadas de Data Wrangling.
+- 💬 **Hablemos de:** Ingeniería, análisis de sistemas, OSINT y cómo los datos resuelven problemas reales.
+- ⚡ **Dato curioso:** Mi capacidad analítica viene de dos mundos: la biotecnología y los juegos de estrategia de mesa.
+
+---
+
+## 🚀 Proyectos Destacados
+
+1. **[Nombre del Proyecto 1]**: Breve descripción de una línea sobre el problema resuelto.
+2. **[Nombre del Proyecto 2]**: Breve descripción de una línea sobre el impacto generado.
+
+---
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de Gerson](https://github-readme-stats.vercel.app/api?username=gersonv-bda&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contacto & Colaboración
+- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario/)
+- **Email:** gersonv.bda@outlook.com
+- **Especialidad:** Consultoría remota enfocada en optimización de procesos y auditoría de datos.
+
+*"La autonomía y el rigor son la base de toda solución escalable."*
