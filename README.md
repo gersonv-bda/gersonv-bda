@@ -25,13 +25,19 @@ Soy un Ingeniero Biotecnólogo con más de 15 años de experiencia gestionando s
 
 ## 🚀 Proyectos Destacados
 
-1. **[Nombre del Proyecto 1]**: Breve descripción de una línea sobre el problema resuelto.
-2. **[Nombre del Proyecto 2]**: Breve descripción de una línea sobre el impacto generado.
-
+1. **[Análisis del Mercado Automotriz](https://github.com/gersonv-bda/Analisis-Mercado-Automotriz)**: Aplicación interactiva para el diagnóstico visual de datos de ventas de vehículos.
+2. **[Simulador de Probabilidad](https://github.com/gersonv-bda/Simulador-Probabilidad-Streamlit)**: Herramienta de cálculo estadístico en tiempo real sobre la Ley de los Grandes Números.
 ---
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de Gerson](https://github-readme-stats.vercel.app/api?username=gersonv-bda&show_icons=true&theme=radical)
+## 📊 Resumen de Actividad Técnica
+
+| Recurso | Nivel / Detalle |
+| :--- | :--- |
+| **Lenguaje Principal** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Bases de Datos** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Análisis** | Limpieza de Datos, EDA, Estadística Descriptiva. |
+| **Estado de Proyectos** | 2 Repositorios Finalizados / 1 en Desarrollo. |
 
 ---
 
