@@ -42,7 +42,7 @@ Soy un Ingeniero Biotecnólogo con más de 15 años de experiencia gestionando s
 ---
 
 ## 📫 Contacto & Colaboración
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario/)
+- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/gersonv-bda/)
 - **Email:** gersonv.bda@outlook.com
 - **Especialidad:** Consultoría remota enfocada en optimización de procesos y auditoría de datos.
 
